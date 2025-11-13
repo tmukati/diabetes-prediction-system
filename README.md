@@ -54,7 +54,7 @@ The project follows these key steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shsarv/Machine-learning-projects.git
+   git clone https://github.com/tmukati/diabetes-prediction-system.git
    cd diabetes-prediction-[End-2-END]/Diabetes-prediction-deployed
    ```
 
